@@ -1,19 +1,38 @@
-<img src="file:///C:/Users/LenovoPC/Desktop/for CV.jpg" />
 
-Azaronok Anastasiya
+# Anastasiya Azaronok
 
-Github account - AnastasiaAzarenok
+## Economist
 
-+375 29 6310853
+[Github AnastasiaAzarenok](https://github.com/AnastasiaAzarenok)
 
-Economist-financier (9 years experience 
-from 2009 to 2018 year)
+### Experience:
 
-Higher education, MGUP (Faculty of Finance and Credit)
+From 2009 to 2021 year
+
+Economist-financier
+
+Foreign company 'Mebelain'
+
+ worked with MFSO reports
+*   created business-plans
+*   carried out statistical reports
+*   calculation of prices for products
+*   analysis financial indicators
+*   preparing presentations for managers
 
 English level B1
 
-[Сurriculum vitae](https://github.com/AnastasiaAzarenok/rsschool-cv/blob/gh-pages/cv.md)
+
+
+
+
+
+
+
+
+
+
+
 
 
 
